@@ -1,7 +1,6 @@
 spring: 
   application: 
     name: CONFIG-DEFAULT
-application.name
 
 #euraka client configurations
 eureka:
